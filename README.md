@@ -1,4 +1,4 @@
-# hexcoder_demo
+# bmi_calculator
 
 A new Flutter project.
 
